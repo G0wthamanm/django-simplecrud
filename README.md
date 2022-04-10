@@ -1,4 +1,4 @@
-# django-simplecrud
+# django-simplecrud with login & register
 Install python & django
 
 #Run your project
